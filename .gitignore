@@ -1,0 +1,10 @@
+
+/uploads
+/datastore
+/.idea
+*.cache
+/*
+!.gitignore
+!applications
+applications/*
+!applications/assteamapi
